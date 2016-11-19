@@ -1,0 +1,15 @@
+.bold {
+    font-weight: bold;
+}
+
+.progress-bg {
+    background-color: #CF7393 !important;
+}
+
+.progress-fg {
+    background-color: #F48FB1 !important;
+}
+
+.side-nav a {
+    color: #aaa;
+}

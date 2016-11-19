@@ -1,0 +1,53 @@
+==================================================================
+https://keybase.io/loaf
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://amy.willnot.date
+  * I am loaf (https://keybase.io/loaf) on keybase.
+  * I have a public key ASAgbkh_frMyWU-TyhZg7HhSS2YpFBdCbdXDlUhuJD1l1go
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120206e487f7eb332594f93ca1660ec78524b66291417426dd5c395486e243d65d60a",
+            "host": "keybase.io",
+            "kid": "0120206e487f7eb332594f93ca1660ec78524b66291417426dd5c395486e243d65d60a",
+            "uid": "dc0ba88f20a66cdc468c4cb3f1ca5319",
+            "username": "loaf"
+        },
+        "service": {
+            "hostname": "amy.willnot.date",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1479511768,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1479511748,
+        "hash": "0c4f02b9d2e1b73eb4fc4cb651e0a78ed454e7861d7638ce3813648313d06911e5717f92842bfd5076b14f5c434bf80e06fbe03c4ab0ee0be966ae2517ae5e1e",
+        "seqno": 724261
+    },
+    "prev": "9101230655e1c31d4619ed98d357a54b4be40946951fe68eade5ba3a98158f34",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgIG5If36zMllPk8oWYOx4UktmKRQXQm3Vw5VIbiQ9ZdYKp3BheWxvYWTFAvR7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMjA2ZTQ4N2Y3ZWIzMzI1OTRmOTNjYTE2NjBlYzc4NTI0YjY2MjkxNDE3NDI2ZGQ1YzM5NTQ4NmUyNDNkNjVkNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMjA2ZTQ4N2Y3ZWIzMzI1OTRmOTNjYTE2NjBlYzc4NTI0YjY2MjkxNDE3NDI2ZGQ1YzM5NTQ4NmUyNDNkNjVkNjBhIiwidWlkIjoiZGMwYmE4OGYyMGE2NmNkYzQ2OGM0Y2IzZjFjYTUzMTkiLCJ1c2VybmFtZSI6ImxvYWYifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImFteS53aWxsbm90LmRhdGUiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ3OTUxMTc2OCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDc5NTExNzQ4LCJoYXNoIjoiMGM0ZjAyYjlkMmUxYjczZWI0ZmM0Y2I2NTFlMGE3OGVkNDU0ZTc4NjFkNzYzOGNlMzgxMzY0ODMxM2QwNjkxMWU1NzE3ZjkyODQyYmZkNTA3NmIxNGY1YzQzNGJmODBlMDZmYmUwM2M0YWIwZWUwYmU5NjZhZTI1MTdhZTVlMWUiLCJzZXFubyI6NzI0MjYxfSwicHJldiI6IjkxMDEyMzA2NTVlMWMzMWQ0NjE5ZWQ5OGQzNTdhNTRiNGJlNDA5NDY5NTFmZTY4ZWFkZTViYTNhOTgxNThmMzQiLCJzZXFubyI6NiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxED2V4jsNdcIz+AvL0dqsVSOc55BE0xmLDwqGvqHqgfxwV0HjgpneYtzTK91J3eBq63Kxt+uuP01YVQwQ8EduMwCqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgvgYOMvIbJacmwzIEeDebJP3/okHYcrWbq0hyKpwgqX+jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/loaf
+
